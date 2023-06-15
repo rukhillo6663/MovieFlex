@@ -1,5 +1,4 @@
 import './App.css';
-import {} from 'react-icons'
 //import {Routes, Route} from 'react-router-dom'
 import React from 'react';
 import {useEffect, useState} from 'react'
